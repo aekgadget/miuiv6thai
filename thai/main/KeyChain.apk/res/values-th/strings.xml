@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">กุญแจ</string>
+    <string name="title_no_certs">ใบรับรองไม่พบ</string>
+    <string name="title_select_cert">เลือกใบรับรอง</string>
+    <string name="requesting_application">แอป %s ได้ขอใบรับรอง. เลือกใบรับรองจะช่วยให้การตรวจสอบตัวตนที่ใช้กับเซิร์ฟเวอร์นี้ในขณะนี้และในอนาคต.</string>
+    <string name="requesting_server">แอป มีการระบุเซิร์ฟเวอร์ขอเป็น %s, แต่คุณควรจะให้การเข้าถึงการตรวจสอบเพื่อการรับรองถ้าคุณเชื่อถือแอป.</string>
+    <string name="install_new_cert_message">คุณสามารถติดตั้งใบรับรองจาก PKCS # 12 ไฟล์ที่มี %1$s หรือ %2$s ส่วนขยายที่อยู่ในการจัดเก็บข้อมูลภายนอก.</string>
+    <string name="install_new_cert_button_label">ติดตั้ง</string>
+    <string name="allow_button">อนุญาต</string>
+    <string name="deny_button">ปฏิเสธ</string>
+</resources>

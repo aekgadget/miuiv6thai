@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="app_name">บริการ UniPlay</string>
+    <string name="service_name">บริการ UniPlay</string>
+    <string name="notification_rc_title">Xiaomiรีโมทคอนโทรล</string>
+    <string name="notification_rc_desc">คุณสามารถใช้ Xiaomi รีโมทคอนโทรลควบคุมกล่อง Xiaomi ของคุณและทีวี</string>
+</resources>

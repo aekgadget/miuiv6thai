@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">บริการ Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">รายชื่อรับผ่าน NFC</string>
+    <string name="inbound_me_profile_text">สัมผัสเพื่อเพิ่มบุคคลนี้เป็นผู้ติดต่อ.</string>
+    <string name="outbound_me_profile_title">NFC ทำงานร่วมกันสมบูรณ์</string>
+    <string name="outbound_me_profile_text">สัมผัสเพื่อให้บุคคลนี้ข้อมูลที่ติดต่อของคุณ.</string>
+    <string name="accessibility_nfc_enabled">เปิดใช้งาน NFC.</string>
+    <string name="touch">สัมผัสเพื่อ Beam</string>
+    <string name="beam_progress">กำลังเข้า Beam...</string>
+    <string name="beam_outgoing">กำลังBeam...</string>
+    <string name="beam_complete">Beam สำเร็จ</string>
+    <string name="beam_failed">Beam ไม่สำเร็จ</string>
+    <string name="beam_canceled">ยกเลิก Beam</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="beam_touch_to_view">แตะเพื่อดู</string>
+    <string name="beam_handover_not_supported">อุปกรณ์ของผู้รับไม่สนับสนุนการถ่ายโอนไฟล์ขนาดใหญ่ผ่านทาง Beam.</string>
+    <string name="beam_try_again">นำอุปกรณ์ร่วมกันอีกครั้ง</string>
+    <string name="connecting_headset">กำลังเชื่อมต่อ</string>
+    <string name="connected_headset">เชื่อมต่อแล้ว</string>
+    <string name="connect_headset_failed">ไม่สามารถเชื่อมต่อได้</string>
+    <string name="disconnecting_headset">กำลังตัดการเชื่อมต่อ</string>
+    <string name="disconnected_headset">ตัดการเชื่อมต่อแล้ว</string>
+    <string name="pairing_headset">กำลังจับคู่</string>
+    <string name="pairing_headset_failed">ไม่สามารถจับคู่ได้</string>
+    <string name="failed_to_enable_bt">ไม่สามารถเปิดบลูทูธได้</string>
+    <string name="confirm_pairing">คุณแน่ใจหรือว่าต้องการที่จะจับคู่ อุกรณ์บลูทูธ %1$s?</string>
+    <string name="pair_yes">ใช่</string>
+    <string name="pair_no">ไม่</string>
+    <string name="tap_again_to_pay">แตะอีกครั้งเพื่อชำระเงินด้วย %1$s</string>
+    <string name="tap_again_to_complete">แตะอีกครั้งเพื่อดำเนินการกับ %1$s</string>
+    <string name="transaction_failure">รายการนี้ไม่สามารถเสร็จสมบูรณ์ด้วย %1$s.</string>
+    <string name="could_not_use_app">ไม่สามารถใช้ %1$s.</string>
+    <string name="pay_with">จ่ายด้วย</string>
+    <string name="complete_with">สำเร็จกับ</string>
+    <string name="default_pay_app_removed">บริการที่คุณต้องการสำหรับแตะ &amp; จ่ายถูกลบออก. เลือกอันอื่น?</string>
+</resources>

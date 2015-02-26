@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d ชื่อผู้ติดต่อ</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d ข้อความ</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d บันทึกย่อ</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+</resources>

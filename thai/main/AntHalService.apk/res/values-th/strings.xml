@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANT HAL บริการ</string>
+    <string name="permdesc_antradio">ช่วยให้การประยุกต์ใช้ในการกำหนดค่าโดยตรงวิทยุ ANT. การใช้งานที่เป็นอันตรายอาจป้องกันไม่ให้บริการ ANT วิทยุจากการให้ฟังก์ชันการใช้งาน ANT oter.</string>
+    <string name="permlab_antradio">ใช้ฮาร์ดแวร์ ANT</string>
+    <string name="permdesc_ant">อนุญาตให้ใช้ในการสื่อสารกับอุปกรณ์ ANT ใช้บริการพร็อกซี่. การใช้งานที่เป็นอันตรายอาจได้รับข้อมูลจากหรือส่งไปยังอุปกรณ์ ANT โดยปราศจากความรู้ของคุณ.</string>
+    <string name="permlab_ant">ใช้อินเตอร์เฟซวิทยุ ANT</string>
+    <string name="permdesc_antAdmin">อนุญาตให้ใช้ในการกำหนดค่าโดยตรงวิทยุ ANT ผ่านบริการพร็อกซี่. การใช้งานที่เป็นอันตรายอาจทำให้การใช้งาน ANT อื่น ๆ จากการเชื่อมต่อกับอุปกรณ์ ANT.</string>
+    <string name="permlab_antAdmin">ควบคุมการตั้งค่าวิทยุ ANT</string>
+</resources>
