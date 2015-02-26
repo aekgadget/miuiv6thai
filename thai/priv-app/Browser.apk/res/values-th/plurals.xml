@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="webview_matches_found">
+        <item quantity="other">ตรงกัน 1 รายการ%1$d of %2$d</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">ล่าสุด %d วัน</item>
+    </plurals>
+</resources>

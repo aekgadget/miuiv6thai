@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">ตัดภาพพื้นหลัง</string>
+    <string name="wallpaper_instructions">ตั้งเป็นภาพพื้นหลัง</string>
+    <string name="wallpaper_load_fail">ไม่สามารถโหลดภาพเป็นภาพพื้นหลัง</string>
+</resources>

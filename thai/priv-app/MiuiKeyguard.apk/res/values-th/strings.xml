@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">ลบ</string>
+    <string name="unlockscreen_recharging_message">กำลังชาร์จ %d%%</string>
+    <string name="unlockscreen_recharge_completed">แบตเตอรี่เต็ม</string>
+    <string name="unlockscreen_low_battery">เชื่อมต่อสายชาร์ต</string>
+    <string name="lockscreen_charging_msg">กำลังชาร์จ</string>
+    <string name="emergency_call_string">ฉุกเฉิน</string>
+    <string name="forget_password_string">ลืมรหัสผ่าน</string>
+    <string name="input_puk_code">ใส่ PUK</string>
+    <string name="unlocking_sim_card">กำลังปลดล็อกซิมการ์ด</string>
+    <string name="input_pin_code">ใส่ PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">รหัส PUK ไม่ถูกต้อง %d พยายามที่เหลือ</string>
+    <string name="incorrect_pincode_remaining_attempts">รหัส PIN ไม่ถูกต้อง %d พยายามที่เหลือ</string>
+    <string name="incorrect_pukcode">รหัส PUK ไม่ถูกต้อง</string>
+    <string name="incorrect_pincode">รหัส PIN ไม่ถูกต้อง</string>
+    <string name="open_wifi_settings">เปิดการเชื่อมต่อเครือข่าย</string>
+    <string name="lock_screen_date">E dd/MM</string>
+    <string name="lockscreen_glogin_password_hint">รหัสผ่าน</string>
+    <string name="lockscreen_glogin_checking_password">กำลังตรวจ…</string>
+    <string name="login_website_in_case_forget_password">คุณสามารถกำหนดรหัสผ่านใหม่ของคุณ ไปที่ i.xiaomi.com</string>
+    <string name="experimental_validate_thanks">ขอบคุณ!</string>
+    <string name="experimental_validate_warning">ขอบคุณที่ช่วยให้ MIUI ดีขึ้น!</string>
+    <string name="experimental_validate">ตรวจสอบ</string>
+    <string name="experimental_try_string">ลอง</string>
+    <string name="experimental_validate_username">ชื่อผู้ใช้</string>
+    <string name="experimental_validate_password">รหัสผ่าน</string>
+    <string name="experimental_validate_progress">กำลังเข้าระบบ…</string>
+    <string name="experimental_validate_fail">ไม่สามารถเข้าสู่ระบบ</string>
+    <string name="lockscreen_glogin_invalid_input">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง.</string>
+    <string name="find_device_turn_off_flight_mode">ปิดโหมดเครื่องบิน</string>
+    <string name="phone_locked_string">โทรศัพท์ถูกล็อค</string>
+    <string name="phone_locked_timeout_seconds_string">ลองอีกครั้งใน %s วินาที</string>
+    <string name="phone_locked_timeout_minutes_string">ลองอีกครั้งใน %s นาที</string>
+    <string name="input_password_hint_text">กรุณาใส่รหัสผ่าน</string>
+    <string name="unlock_sim_string">ปลดล็อคซิมการ์ด</string>
+    <string name="lockscreen_glogin_submit_button">เข้าระบบ</string>
+    <string name="lockscreen_access_pattern_start">เริ่มต้นใส่รูปแบบ</string>
+    <string name="lockscreen_access_pattern_cleared">การลากเส้นรูปแบบเสร็จสิ้น</string>
+    <string name="lockscreen_access_pattern_cell_added">รูปแบบเซลเพิ่มแล้ว</string>
+    <string name="lockscreen_access_pattern_detected">การลากเส้นรูปแบบเสร็จสิ้น</string>
+    <string name="default_lockscreen_unlock_hint_text">เลื่อนขึ้นเพื่อปลดล็อค</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณใส่รหัสผ่านไม่ถูกต้อง %d ครั้ง หลังจากไม่สำเร็จ %d ครั้ง คุณจะถูกขอให้ปลดล็อกโทรศัพท์โดยเข้าระบบบัญชี
+
+ ลองอีกครั้งใน %d วินาที"</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">คุณได้ปลดล็อคโทรศัพท์%dครั้งแล้ว หากปลดล็อคไม่สำเร็จอีก%dครั้ง โทรศัพท์เครื่องนี้จะถูกล้างข้อมูลผู้ใช้และกลับเป็นตั้งต้นค่าโรงงานแทน         </string>
+    <string name="lockscreen_failed_attempts_now_wiping">คุณได้พยายามปลดล็อคโทรศัพท์%dครั้งแล้ว โทรศัพท์เครื่องนี้กำลังถูกล้างข้อมูลกลับเป็นค่าตั้งต้นโรงงานแทน.     </string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อคโดยใช้อุปกรณ์บลูทูธ</string>
+    <string name="missed_call_text">%d สายที่ไม่ได้รับ</string>
+    <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="keyguard_torch_cover_text">กรุณากดปุ่มปิดเครื่องหากต้องการเปิดไฟฉายค้างไว้</string>
+    <string name="confirm_pin_msg">ป้อนรหัสพินอีกครั้ง</string>
+    <string name="invalid_confirm_pin_hint">รหัสพินที่ป้อนไม่ตรงกัน</string>
+</resources>

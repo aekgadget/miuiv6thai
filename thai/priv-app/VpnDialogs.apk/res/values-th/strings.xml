@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s พยายามที่จะสร้างการเชื่อมต่อ VPN.</string>
+    <string name="warning">โดยการดำเนินการ, คุณจะให้ได้รับอนุญาตแอปพลิเคชันในการขัดขวางข้อมูลเครือข่ายทั้งหมด. <b>ไม่ยอมรับยกเว้นกรณีที่คุณเชื่อถือแอปพลิเคชัน.</b>" อีกอย่าง, คุณจะเสี่ยงต่อข้อมูลของคุณที่มีถูกบุกรุกโดยซอฟต์แวร์ที่เป็นอันตราย. "</string>
+    <string name="accept">ฉันเชื่อถือโปรแกรมนี้.</string>
+    <string name="legacy_title">VPN เชื่อมต่อแล้ว</string>
+    <string name="configure">การกำหนดค่า</string>
+    <string name="disconnect">ตัดการเชื่อมต่อ</string>
+    <string name="session">เซสชั่น:</string>
+    <string name="duration">ระยะเวลา:</string>
+    <string name="data_transmitted">ถูกส่ง:</string>
+    <string name="data_received">ได้รับ:</string>
+    <string name="data_value_format">%1$s ไบต์ / %2$s แพ็คเก็ต</string>
+</resources>

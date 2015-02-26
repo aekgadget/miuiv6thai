@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>แจ่มใส</item>
+        <item>มีเมฆ</item>
+        <item>มีเมฆมาก</item>
+        <item>หมอกจัด</item>
+        <item>พายุฝนรุนแรง</item>
+        <item>ฝนตกหนัก</item>
+        <item>พายุฝน</item>
+        <item>ฝนฟ้าคะนอง</item>
+        <item>ฝนตก</item>
+        <item>ฝนตกหนัก</item>
+        <item>ฝนปานกลาง</item>
+        <item>ฝนเล็กน้อย</item>
+        <item>ฝนและหิมะตก</item>
+        <item>พายุหิมะ</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกหนัก</item>
+        <item>หิมะปานกลาง</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>พายะทรายรุนแรง</item>
+        <item>พายุทราย</item>
+        <item>พายุทราย</item>
+        <item>ลมแรง</item>
+        <item>มีลูกเห็บตก</item>
+        <item>ฝุ่นละออง</item>
+        <item>ฟ้าหลัว</item>
+        <item>ฝนเยือกแข็ง</item>
+        <item>ไม่มีข้อมูล</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>น้อยที่สุด</item>
+        <item>น้อย</item>
+        <item>ปานกลาง</item>
+        <item>แรง</item>
+        <item>แรงมาก</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>ลมเหนือ</item>
+        <item>ลมตะวันออกเฉียงเหนือ</item>
+        <item>ลมตะวันออก</item>
+        <item>ลมตะวันออกเฉียงใต้</item>
+        <item>ลมใต้</item>
+        <item>ลมตะวันตกเฉียงใต้</item>
+        <item>ลมตะวันตก</item>
+        <item>ลมตะวันตกเฉียงเหนือ</item>
+    </string-array>
+</resources>

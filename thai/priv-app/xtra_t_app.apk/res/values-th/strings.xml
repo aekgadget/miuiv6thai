@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">เร่งสถานที่ตั้ง</string>
+    <string name="IZat_SUB_TITLE_TEXT">ใช้ Qualcomm&lt;sup>&amp;reg;&lt;/sup> IZat&lt;sup>TM&lt;/sup> การเร่งฮาร์ดแวร์ที่ตั้ง</string>
+    <string name="POPUP_BOX_TITLE">ยินยอมที่ตั้ง</string>
+    <string name="POPUP_BOX_TEXT">เพื่อเปิดใช้งานการเร่งฮาร์ดแวร์, อนุญาตให้ IZat การเก็บรวบรวมข้อมูลที่ตั้ง. IZat เก็บข้อมูลบางอย่างเกี่ยวกับอุปกรณ์ของคุณและอาจจะทำงานแม้จะไม่มีแอปพลิเคชันที่กำลังทำงาน.</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\">Terms and Privacy Policy&lt;/a></string>
+    <string name="IZAT_AGREE">ยอมรับ</string>
+    <string name="IZAT_DISAGREE">ไม่ยอมรับ</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">สภาพอากาศ</string>
+    <string name="aqi_quality_index_pure">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_good">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_moderate">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_light_pollution">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_unhealthy">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_dangerous">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_hazardous">ดัชนีI %1$s</string>
+    <string name="aqi_quality_index_break">ดัชนีI %1$s</string>
+    <string name="view_indexes_wind_unit">กม./ชม.</string>
+</resources>

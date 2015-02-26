@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">สื่อ</string>
+    <string name="app_label">พื้นที่จัดเก็บสื่อ</string>
+    <string name="upgrade_msg">การอัพเกรดฐานข้อมูลสื่อ.</string>
+    <string name="artist_label">ศิลปิน</string>
+    <string name="ringtone_default">เสียงเรียกเข้าค่าเริ่มต้น</string>
+    <string name="notification_sound_default">ค่าเริ่มต้นเสียงแจ้งเตือน</string>
+    <string name="alarm_sound_default">ค่าเริ่มต้นเสียงนาฬิกาปลุก</string>
+    <string name="root_images">รูปภาพ</string>
+    <string name="root_videos">วิดีโอ</string>
+    <string name="root_audio">เสียง</string>
+</resources>

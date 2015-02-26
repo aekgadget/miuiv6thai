@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แท็ก</string>
+    <string name="title_scanned_tag">แท็กใหม่ที่เก็บรวบรวม</string>
+    <string name="title_existing_tag">แท็ก</string>
+    <string name="tag_unknown">ประเภทแท็กที่ไม่รู้จัก</string>
+    <string name="tag_empty">แท็กที่ว่างเปล่า</string>
+    <string name="button_done">เสร็จแล้ว</string>
+    <string name="action_text">ข้อความ %s</string>
+    <string name="action_call">โทร %s</string>
+    <string name="empty_tag_prompt">แท็กนี้ว่างเปล่า.</string>
+    <string name="import_vcard">นำเข้า ^1</string>
+    <string name="mime_display_name">ข้อมูลจากแท็ก NFC</string>
+    <string name="vcard_title">ข้อมูลสำหรับรายชื่อ ^1</string>
+</resources>
